@@ -33,11 +33,6 @@ class Categorie {
         return $this->icon;
     }
 
-
-    
-
-
-
 }
 
 ?>
